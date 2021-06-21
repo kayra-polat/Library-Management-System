@@ -1,5 +1,5 @@
 # 📚 Library-Management-System
-A library management system made using Postgresql. This project was designed during the course "Relational Databases CMPE232".
+- A library management system made using Postgresql. This project was designed during the course "Relational Databases CMPE232".
 
 ## Entity Relationship Diagram and Relational Schema
  The **ER Diagram** file can be created with using a useful tool which is [Visual Paradigm](https://www.visual-paradigm.com/features/database-design-with-erd-tools/)
