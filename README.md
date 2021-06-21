@@ -1,4 +1,4 @@
-📚# Library-Management-System
+📚 # Library-Management-System
 A library management system made using Postgresql. This project was designed during the course "Relational Databases CMPE232".
 
 ## Entity Relationship Diagram and Relational Schema
