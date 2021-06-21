@@ -2,7 +2,7 @@
 - A library management system made using Postgresql. This project was designed during the course "Relational Databases CMPE232".
 
 ## Entity Relationship Diagram and Relational Schema
-- The **ER Diagram** file can be created with using a useful tool which is [Visual Paradigm](https://www.visual-paradigm.com/features/database-design-with-erd-tools/)
+- The [**ER Diagram**](https://www.visual-paradigm.com/features/database-design-with-erd-tools/#:~:text=Entity%20Relationship%20Diagram%20(ERD)%2C,their%20columns%20and%20inter-relationships.&text=A%20well-developed%20ERD%20can,when%20developing%20and%20maintaining%20database.) file can be created with using a useful tool which is [Visual Paradigm](https://www.visual-paradigm.com/features/database-design-with-erd-tools/)
 ![Library Management System ER Model](https://user-images.githubusercontent.com/75734949/122827883-a3ac6b00-d2ed-11eb-9f9e-c91ff89422a1.jpg)
 ![Relational Schema_Final](https://user-images.githubusercontent.com/75734949/122827903-a909b580-d2ed-11eb-9c0e-6de5b224d676.png)
 
