@@ -1,12 +1,12 @@
 # Library-Management-System
-## Intermediate Library Management System
 A library management system made using Postgresql. This project was designed during the course "Relational Databases CMPE232".
 
-### Entity Relationship Diagram and Relational Schema
+## Entity Relationship Diagram and Relational Schema
+ The **ER Diagram** file can be created with using a useful tool which is [https://www.visual-paradigm.com/features/database-design-with-erd-tools/]
 ![Library Management System ER Model](https://user-images.githubusercontent.com/75734949/122827883-a3ac6b00-d2ed-11eb-9f9e-c91ff89422a1.jpg)
 ![Relational Schema_Final](https://user-images.githubusercontent.com/75734949/122827903-a909b580-d2ed-11eb-9c0e-6de5b224d676.png)
 
-### Java Application Program
+## Java Application Program
 => In the Java command line interface part, we implemented an API to provide some functionalities of our database to end user. At the very first part, the program must make a connection through the database with authorization credentials. So, we created a “config.txt” file under the “/project_root_directory/res/” folder to store user secrets properly. The file includes both local and remote configurations as key-value pairs for ease of use (you can edit local values to test it out on your machine). After we passed the credentials into the Java program, the program asks for connection type (local/remote). Then it connects to the database with the help of Postgres JDBC driver (included inside the “/project_root_directory/lib/” folder).
 
 ![image](https://user-images.githubusercontent.com/75734949/122827990-c474c080-d2ed-11eb-9373-b64d3023453f.png)
